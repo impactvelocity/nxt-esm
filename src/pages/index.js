@@ -9,9 +9,10 @@ import confetti from "https://esm.sh/canvas-confetti@1.6.0"
 
 import { sayHi } from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/sayHi2.js"
 
-// import TestComponent from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/testComponent1.js"
+import TestComponent from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/testComponent2.js"
 
 export default function Home() {
+	console.log(TestComponent)
 	return (
 		<main
 			className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
@@ -29,8 +30,12 @@ export default function Home() {
 						Confetti ESM
 					</button>
 
-					<div className="mt-12">
-						{/* {TestComponent.default({ useState, confetti })} */}
+					<div className="mt-12 flex items-center space-x-2">
+						<TestComponent
+							useState={useState}
+							confetti={confetti}
+							className="bg-white rounded py-2 px-2 font-bold text-black"
+						/>
 					</div>
 				</div>
 			</div>

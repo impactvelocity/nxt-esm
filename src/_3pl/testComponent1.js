@@ -1,6 +1,6 @@
 import * as React from "react"
 
-function MyComponent({ useState, confetti }) {
+function MyComponent({ useState, confetti, className }) {
 	const [count, setCount] = useState(0)
 
 	return (
@@ -8,12 +8,14 @@ function MyComponent({ useState, confetti }) {
 			<div>
 				<button
 					onClick={() => setCount((count) => count + 1)}
-					className="bg-blue-400"
+					className={className}
 				>
 					Counter Dynamic Component is {count}
 				</button>
+			</div>
 
-				<button onClick={() => confetti()} className="bg-green-400">
+			<div className="">
+				<button onClick={() => confetti()} className={className}>
 					Also Do Confetti
 				</button>
 			</div>
