@@ -1,5 +1,6 @@
 {
   "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/sayHi.js": { "integrity": "sha512-sfLST/5hX1+C63nPIcO7+eoSezAZyxFZahZczL349lxFUGP5NKDig1+CrjZGnOmiwlDB++ZihusqXBUdqMLGBQ==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/sayHi2.js": { "integrity": "sha512-6Wawv0knUGZxAXdRy9fJWs9WPSLGF7fg33HPfHsiNdICgKwnkfoNfbuzLn2cBq6SaTxXJTjy/FzZjdnXGmW+0g==", "contentType": "application/javascript; charset=utf-8" },
   "https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.1/dist/confetti.browser.min.js": { "integrity": "sha512-PYGcqqFXVbh9EnW8B4jYlxaN9av8WS9gzXNcgc71czCo2AlvMk06VifUpOJ3vCgcI6G5rqCpP+ZpBsZaHDR6TA==", "contentType": "application/javascript; charset=utf-8" },
   "https://cdn.skypack.dev/-/canvas-confetti@v1.6.1-56TPt2nXgjLiQbFqKBFC/dist=es2019,mode=imports/optimized/canvas-confetti.js": { "integrity": "sha512-aSVFceeYhRbHjY4tVMIRann9FpQHULKWgb6T8kOUcKg4vTG8y2/LVbBJ4gPt4oZ5lgig2o+6U64zhAU+7UXwkg==", "contentType": "application/javascript; charset=utf-8" },
   "https://cdn.skypack.dev/canvas-confetti": { "integrity": "sha512-1qD95EgnveScr+p5+HKUiwiMSZLW7ep8q5QAUUu9fpj6yH7xhFNkP8Q8UHu0Y3g5tbmXKvmZoE1j8b3MVroRmw==", "contentType": "application/javascript; charset=utf-8" },

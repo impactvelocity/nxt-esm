@@ -1,12 +1,13 @@
 import Image from "next/image"
-import { Inter } from "next/font/google"
 
+import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
+
+import { useState } from "react"
 
 import confetti from "https://esm.sh/canvas-confetti@1.6.0"
 
-import { sayHi } from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/sayHi.js"
-// import { esm } from "https://esm.sh/build"
+import { sayHi } from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/sayHi2.js"
 
 export default function Home() {
 	return (
