@@ -15,7 +15,7 @@ import dynamic from "next/dynamic"
 
 const TestComponent = dynamic(() =>
 	import(
-		"https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/testComponent2.2.js"
+		"https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/testComponent2.3.js"
 	)
 )
 
