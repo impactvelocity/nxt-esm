@@ -50,3 +50,14 @@ export default function Home() {
 		</main>
 	)
 }
+
+export const config = {
+	runtime: "experimental-edge", // or "edge"
+}
+
+export async function getServerSideProps() {
+	// Fetch data from external API
+
+	// Pass data to the page via props
+	return { props: { data: "yes" } }
+}
