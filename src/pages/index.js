@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 import confetti from "https://esm.sh/canvas-confetti@1.6.0"
 
-import sayHi from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/sayHi.js"
+import { sayHi } from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/sayHi.js"
 // import { esm } from "https://esm.sh/build"
 
 export default function Home() {
