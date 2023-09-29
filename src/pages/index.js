@@ -9,6 +9,8 @@ import confetti from "https://esm.sh/canvas-confetti@1.6.0"
 
 import { sayHi } from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/sayHi2.js"
 
+// import TestComponent from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/testComponent1.js"
+
 export default function Home() {
 	return (
 		<main
@@ -26,6 +28,10 @@ export default function Home() {
 					>
 						Confetti ESM
 					</button>
+
+					<div className="mt-12">
+						{/* {TestComponent.default({ useState, confetti })} */}
+					</div>
 				</div>
 			</div>
 		</main>
