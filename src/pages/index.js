@@ -9,7 +9,7 @@ import confetti from "https://esm.sh/canvas-confetti@1.6.0"
 
 import { sayHi } from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/sayHi2.js"
 
-import TestComponent from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/testComponent2.js"
+import TestComponent from "https://cdn.jsdelivr.net/gh/impactvelocity/nxt-esm/src/_3pl/testComponent2.2.js"
 
 export default function Home() {
 	console.log(TestComponent)
