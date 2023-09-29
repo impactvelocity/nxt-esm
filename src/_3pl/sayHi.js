@@ -1,2 +1,2 @@
-import chalk from "chalk"
-export const sayHi = () => chalk.blue("Hi!")
+// import chalk from "chalk"
+export const sayHi = () => "Saying hi!"
