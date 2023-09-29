@@ -1,0 +1,9 @@
+{
+  "https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.1/dist/confetti.browser.min.js": { "integrity": "sha512-PYGcqqFXVbh9EnW8B4jYlxaN9av8WS9gzXNcgc71czCo2AlvMk06VifUpOJ3vCgcI6G5rqCpP+ZpBsZaHDR6TA==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/-/canvas-confetti@v1.6.1-56TPt2nXgjLiQbFqKBFC/dist=es2019,mode=imports/optimized/canvas-confetti.js": { "integrity": "sha512-aSVFceeYhRbHjY4tVMIRann9FpQHULKWgb6T8kOUcKg4vTG8y2/LVbBJ4gPt4oZ5lgig2o+6U64zhAU+7UXwkg==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/canvas-confetti": { "integrity": "sha512-1qD95EgnveScr+p5+HKUiwiMSZLW7ep8q5QAUUu9fpj6yH7xhFNkP8Q8UHu0Y3g5tbmXKvmZoE1j8b3MVroRmw==", "contentType": "application/javascript; charset=utf-8" },
+  "https://esm.sh/build": { "resolved": "https://esm.sh/v132/build", "integrity": "sha512-d/tbjc3uZs5uzwuwsBlm2wqfcP4GWPwrtyzjqguYdF/Q9C8uGuSNj8OATCA+BVpdfq+i/Hh51Whw3QBH5N0rGQ==", "contentType": "application/javascript; charset=utf-8" },
+  "https://esm.sh/canvas-confetti@1.6.0": { "integrity": "sha512-e/cyWoW6Q8N5KVFDU065cMi5YKHZcCl1YFPZEdEHTgHh87yKwI5SZydWWDPbpzeuEswegox8Q0cEjreLhT82zA==", "contentType": "application/javascript; charset=utf-8" },
+  "https://esm.sh/v132/canvas-confetti@1.6.0/esnext/canvas-confetti.mjs": { "integrity": "sha512-HHTOdo0bUQmnGZndh31lEkO5xGIycjZpujgxIMuaGoZy2aDyE56Iz5BHdSgts7bPfp3Pfa45GOoIkGDKgCAFmA==", "contentType": "application/javascript; charset=utf-8" },
+  "version": 1
+}
